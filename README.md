@@ -4,7 +4,11 @@
 
 ​	科研管理系统 v0.0.1
 
+[![pages-build-deployment](https://github.com/xuxl-dev/homepage.doc/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/xuxl-dev/homepage.doc/actions/workflows/pages/pages-build-deployment)
 
+GitHub Page: [查看在线部署页面](https://xuxl-dev.github.io/homepage.doc/#/)
+
+---
 
 - 主页（展示科研成果、人员信息）
 - 帖子（具体展示内容）
